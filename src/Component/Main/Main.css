@@ -1,0 +1,9 @@
+.main {
+  background: #090a29;
+  width: calc(100%-256px);
+  margin-left: 256px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}

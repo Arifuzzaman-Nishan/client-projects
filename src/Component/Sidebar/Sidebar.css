@@ -1,0 +1,22 @@
+.list-design {
+  list-style: none;
+  border-radius: 10px;
+  width: 14rem;
+}
+
+.list-background-color {
+  background: #1f86ff;
+}
+
+.list-item {
+  cursor: pointer;
+}
+
+.icon-width {
+  width: 1.5rem;
+}
+
+ol,
+ul {
+  padding-left: 1rem;
+}
